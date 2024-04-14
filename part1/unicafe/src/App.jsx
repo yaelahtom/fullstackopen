@@ -1,27 +1,35 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
+import styles from './App.module.css'
 
 const Button = ({ text, onClick }) => (
   <button onClick={onClick}>{text}</button>
 );
 
 const StatisticsLine = ({ text, value }) => (
-  <div>
-    <p>
-      {text} : {value}
-    </p>
-  </div>
+  <tr>
+    <td>{text}</td>
+    <td>{value}</td>
+</tr>
 );
 
 const Statistics = ({ goodValue, badValue, neutralValue, allValue, average, positivePercentage }) => (
-  <div>
-    <StatisticsLine text="good" value={goodValue} />
-    <StatisticsLine text="bad" value={badValue} />
-    <StatisticsLine text="neutral" value={neutralValue} />
-    <StatisticsLine text="all" value={allValue} />
-    <StatisticsLine text="average" value={average} />
-    <StatisticsLine text="positive" value={positivePercentage + "%"} /> {/* Display percentage */}
-  </div>
+  <table className={styles.statistics}>
+    <thead>
+      <tr>
+        <th>Indicator</th>
+        <th>Value</th>
+      </tr>
+    </thead>
+    <tbody>
+      <StatisticsLine text="good" value={goodValue} />
+      <StatisticsLine text="bad" value={badValue} />
+      <StatisticsLine text="neutral" value={neutralValue} />
+      <StatisticsLine text="all" value={allValue} />
+      <StatisticsLine text="average" value={average} />
+      <StatisticsLine text="positive" value={positivePercentage + "%"} />
+    </tbody>
+  </table>
 );
 
 const App = () => {

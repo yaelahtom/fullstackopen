@@ -1,0 +1,10 @@
+.statistics {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+}
+
+.statistics th,
+.statistics td {
+  border: 1px solid #ddd;
+  padding: 5px;
+}
