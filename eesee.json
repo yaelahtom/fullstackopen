@@ -1,0 +1,2674 @@
+{
+  "Match": "https://auth.dev.eesee.io/graphql",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://gateway.eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://users.eesee.io/graphql",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://apm.dev.eesee.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://api.squidrouter.com",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://testnet.axelarscan.io/gmp/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://axelarscan.io/gmp/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://rpc.blast.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://rpc.blast.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://blastscan.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://sepolia.blast.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://sepolia.blast.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://testnet.blastscan.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "http://www.w3.org/2000/svg",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "http://www.w3.org/2000/svg",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "http://www.w3.org/2000/svg",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://partner.bybit.com/b/eesee10",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://partner.bybit.com/b/eesee10",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://partner.bybit.com/b/eesee10",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://mirror.xyz/eesee.eth/RVcpVBsfJESSIU6Ai65fRP4fwCbQHF5U-kMI96Mabno",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://mirror.xyz/eesee.eth/tNO8S94jwYJ44KwLW08GIuGCrhGJR5SSXIIaiEE_AfM",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://bundler.biconomy.io/api/v2/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://blockscan.com/address/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://instagram.com/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://x.com/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.com/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://t.me/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://blockscan.com/address/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://hacken.io/audits/eesee.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://about.eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://docs.eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.gg/eesee",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://t.me/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://www.instagram.com/eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/intent/tweet?url=",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.com/invite/eesee",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://blockscan.com/address/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://metamask.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://www.okx.com/web3",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://rabby.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.gg/eesee",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://t.me/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.gg/eesee",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://t.me/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discordapp.com",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://instagram.com",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_user",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.com/eesee_user",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://instagram.com/eesee_user",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://verify-with.blockpass.org/?clientId=eesee_launchpad_kyc_59d31\u0026refId=",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://verify-with.blockpass.org/?clientId=eesee_launchpad_kyc_59d31\u0026refId=",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.gg/eesee",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://t.me/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://www.instagram.com/eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://hacken.io/audits/eesee.io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/intent/tweet?url=",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://www.facebook.com/v5.0/dialog/share?app_id=728268542473413\u0026href=",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://telegram.me/share/url?url=",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://go.crisp.chat/chat/embed/?website_id=",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://twitter.com/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://discord.gg/eesee",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://t.me/eesee_io",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "https://www.instagram.com/eesee.io/",
+  "Url": "index-b867fbd6.js",
+  "Regex": "https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?\u0026//=]*)",
+  "Category": "URL",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6LeORl0pAAAAAE1FNuHRI7x0qTrQFkHzMnTTyTti",
+  "Url": "index-b867fbd6.js",
+  "Regex": "6L[0-9A-Za-z-_]{38}|^6[0-9a-zA-Z_-]{39}",
+  "Category": "Google Recaptcha",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6LdLRTEnAAAAANBCHxfPo3L8spO781Q3FYAanoqK",
+  "Url": "index-b867fbd6.js",
+  "Regex": "6L[0-9A-Za-z-_]{38}|^6[0-9a-zA-Z_-]{39}",
+  "Category": "Google Recaptcha",
+  "ContentLength": 975.68
+}
+{
+  "Match": "00000f7365ca6c59a2c93719ad53d567ed49c14c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0000000000000000000000000000000000000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0000000000000000006606c4fd00000000000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0000000000000000000000000000000000000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "006606bdf5000000000000000000000000430000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0000000000000000000000000000000003000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "00000000000000000000000f7748595e46527413",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "574a9327942e744e910000000000000000000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0000000000000000000000000000000000cfebf7",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "5000000000000000000000000000000000000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "000000000000000000001053b044704fe6db1d9e",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "8b8efafa50176bc7bfa9ad87af97d608beb793f5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "9bf2b22d7e46f3f2671e602961b8901d9713b9a3",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "cA11bde05977b3631167028862bE2a173976CA11",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ca11bde05977b3631167028862be2a173976ca11",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0000000000000000000000000000000000000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "EeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0000000000000000000000000000000000000000",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "7B635036B57baEbBe8dc328Af5d02F3F4292e032",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "a247CfF2a50dE0328a0A5bdD0C563Bd44b1a8af9",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "cA3DaBe6B9FC9ebB642840a7e0Fb9618c2f62dE7",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0CC0Ee533f4c767eB9658f2ca6E01c10Beab83c7",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "085827915e1E1A233C7543BC30Ad08Fda9ad5757",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "A39CA80ab73ee6eDe496D37Ae4de7943e1Be17Aa",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "eac19c899098951fc6d0e6a7832b090474e2c292",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "d122A08920f8096D7294f3a449A69bFc83396e0B",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "9cEceC08e9922D641a0E628CCf7d2e9C18e65bC4",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "cF12be07Ea93F7edF6103Ee34A33890b4d8b69b5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "d646D6fc80896919980B8D64C93A91D42900066D",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "d27c37c992f2BEe78064a52C80c782C1f6567A19",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "CAecb8dB0e0e485de6E6c7c40c5FCef9E1F6B27d",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "50C43F95ca9F6b363ea92a0Af7404e30822a728f",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0CF7f9049b1518af2448118a18ec5Df431193ca4",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "f42f636b35fba36d7f19990d01afa3dbbcaca8de",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "9137a093A5A8857b26C04CcfBf045092C6b7Fe2f",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Ea749Fd6bA492dbc14c24FE8A3d08769229b896c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Ea749Fd6bA492dbc14c24FE8A3d08769229b896c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ce16F69375520ab01377ce7B88f5BA8C48F8D666",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "492751ec3c57141deb205ec2da8bfcb410738630",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ce16F69375520ab01377ce7B88f5BA8C48F8D666",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ce16F69375520ab01377ce7B88f5BA8C48F8D666",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Ea749Fd6bA492dbc14c24FE8A3d08769229b896c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Ea749Fd6bA492dbc14c24FE8A3d08769229b896c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ce16F69375520ab01377ce7B88f5BA8C48F8D666",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ce16F69375520ab01377ce7B88f5BA8C48F8D666",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Ea749Fd6bA492dbc14c24FE8A3d08769229b896c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Ea749Fd6bA492dbc14c24FE8A3d08769229b896c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Ec4fD6A0548944870e78a0Bd6F2e81DEE8e80307",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "44A46Edae0dAA438058eE8519755a1394015f7f9",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6979155bF48667DF8B809E8BBc4986B20DB612ED",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "dAC17F958D2ee523a2206206994597C13D831ec7",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "7d9543e47456e66360a1098f982bb3371bea093d",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "908dDb096BFb3AcB19e2280aAD858186ea4935C4",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "e1827DB074E8F22b844E909e9e556B7b2fAbDf01",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "491e6DE43b55c8EAE702EDC263E32339da42f58c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "d50841a36f988c8c919119c859770281e0720118",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6858f161eaf7d16620a79a6ceae7929751fd4042",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "B5FB4BE02232B1bBA4dC8f81dc24C26980dE9e3C",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "B5FB4BE02232B1bBA4dC8f81dc24C26980dE9e3C",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "000000a56Aaca3e9a4C479ea6b6CD0DbcB6634F5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "000000a56Aaca3e9a4C479ea6b6CD0DbcB6634F5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4C79e23Cd935c67F4F30a17e7f6f03Cda0faaa8F",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "8E3828F059b7AC9723CB791b7086dA5d058C1A10",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ed97e7076611c7ead32bc739eb0e3360eba3f830",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ebFC7A970CAAbC18C8e8b7367147C18FC7585492",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4300000000000000000000000000000000000004",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4200000000000000000000000000000000000023",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4300000000000000000000000000000000000003",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4200000000000000000000000000000000000022",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "EB466342C4d449BC9f53A865D5Cb90586f405215",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "254d06f33bDc5b8ee05b2ea472107E300226659A",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "A0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6979155bF48667DF8B809E8BBc4986B20DB612ED",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "A0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6979155bF48667DF8B809E8BBc4986B20DB612ED",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6e4568Ce1Ca4C3B6E7e8FFFF3f0EB4E53B4e43E5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "e1827DB074E8F22b844E909e9e556B7b2fAbDf01",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "491e6DE43b55c8EAE702EDC263E32339da42f58c",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4300000000000000000000000000000000000004",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4200000000000000000000000000000000000023",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4300000000000000000000000000000000000003",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4200000000000000000000000000000000000022",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "EB466342C4d449BC9f53A865D5Cb90586f405215",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "254d06f33bDc5b8ee05b2ea472107E300226659A",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "7d9543e47456e66360a1098f982bb3371bea093d",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "908dDb096BFb3AcB19e2280aAD858186ea4935C4",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "A0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6979155bF48667DF8B809E8BBc4986B20DB612ED",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "A0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6979155bF48667DF8B809E8BBc4986B20DB612ED",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "6e4568Ce1Ca4C3B6E7e8FFFF3f0EB4E53B4e43E5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "750e4C4984a9e0f12978eA6742Bc1c5D248f40ed",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "98994a9A7a2570367554589189dC9772241650f6",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "c47d832aC7486E05E1Fdf8945009F12ab0654Eb7",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "12c69BFA3fb3CbA75a1DEFA6e976B87E233fc7df",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "1d27933D4c4018506b8B4c9D61111528Ac6BBD53",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "337827814155ECBf24D20231fCA4444F530C0555",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "94aa7c30931e68a25d057b4b0c7df44f36d46ed5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "fd27f625202dC42c50471117C86CFC4E1D860001",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4C79e23Cd935c67F4F30a17e7f6f03Cda0faaa8F",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "26015b335Ec532b32ac6436704210d677eF35429",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "c174aa702e0da70d6d98df53afca4bb4f7ff1671",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "44bdbc7721ca809bb8e48b0514a8da50ddcc1667",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "5d773ba46367dafbdf2a3d6425fa4a470d1bc0b6",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-fA-F]{7}.[0-9a-fA-F]{32}",
+  "Category": "Instagram OAuth 2.0",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/1",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/1",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/6",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/6",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/5",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "4/p",
+  "Url": "index-b867fbd6.js",
+  "Regex": "4/[0-9A-Za-z-_]+",
+  "Category": "Google OAuth2.0 Access Token",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:Ie.ASSET_HUB_AXELAR.address",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.publicClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.walletClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.walletClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.publicClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:Ie.ASSET_HUB_AXELAR.address",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.walletClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.publicClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "clientName:\"superGraph\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.walletClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.publicClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.walletClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Client:this.walletService.publicClien",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:o.data.buyTicket.asset.address",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "auth2_bot\":\"EeseeValidatorBot\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "tokenId:u.lot.assets",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "tokenURI:se.current.tokenUR",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "tokenId:t.nft.token",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "tokenId:t.nft.token",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "tokenId:m.nft.token",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Token:\"ticketPriceToken\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Token:\"floorPriceToken\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Token:\"fullPriceToken\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:\"ticketPriceToken\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:\"floorPriceToken\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:\"fullPriceToken\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "tokenId:t.assetSour",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "Token:o.fromToken",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:t.fromToken",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "auth.__typename===\"BaseProblemOutput\"",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(?i)(?:key|api|token|secret|client|passwd|password|auth|access)(?:[0-9a-z\\\\-_\\\\t .]{0,20})(?:[\\\\s|']|[\\\\s|\\\"]){0,3}(?:=|\u003e|:{1,3}=|\\\\|\\\\|:|\u003c=|=\u003e|:|\\\\?=)(?:'|\\\"|\\\\s|=|\\\\x60){0,5}([0-9a-z\\\\-_.=]{10,150})(?:['|\\\"|\\\\n|\\\\r|\\\\s|\\\\x60|;]|$)",
+  "Category": "Generic APIKey",
+  "ContentLength": 975.68
+}
+{
+  "Match": "credentials=\"include",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(credentials|CREDENTIALS)(:|=| : | = )( |\"|')[0-9A-Za-z\\\\-]{5,100}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "credentials=\"same-origin",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(credentials|CREDENTIALS)(:|=| : | = )( |\"|')[0-9A-Za-z\\\\-]{5,100}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "credentials:\"include",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(credentials|CREDENTIALS)(:|=| : | = )( |\"|')[0-9A-Za-z\\\\-]{5,100}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "key: String",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(key|KEY)(:|=| : | = )( |\"|')[0-9A-Za-z\\\\-]{5,100}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "key: String",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(key|KEY)(:|=| : | = )( |\"|')[0-9A-Za-z\\\\-]{5,100}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:\"ticketPric",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(token|TOKEN)(:|=| : | = )(\"|')[ 0-9A-Za-z\\\\-]{10}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:\"floorPrice",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(token|TOKEN)(:|=| : | = )(\"|')[ 0-9A-Za-z\\\\-]{10}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "token:\"fullPriceT",
+  "Url": "index-b867fbd6.js",
+  "Regex": "(token|TOKEN)(:|=| : | = )(\"|')[ 0-9A-Za-z\\\\-]{10}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "config",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "admin",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "{env",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "json",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "config",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "config",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": " env",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": " env",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "egit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "egit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "admin",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "password",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "password",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "config",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "db",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "egit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "egit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "admin",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "password",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "igit",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "oauth_token",
+  "Url": "index-b867fbd6.js",
+  "Regex": "aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|.git|access key|secret token|oauth_token|oauth_token_secret|smtp",
+  "Category": "Generic creds",
+  "ContentLength": 975.68
+}
+{
+  "Match": "e68afe6e-3672-463c-a09b-f1581b5d428f",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "dd7f7861-190d-41bd-af80-6877f74b8f44",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "b15a29a5-25df-41df-9ff5-6cf4e111c21e",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "bf0d3b92-aae4-4776-9f75-a364460ec228",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "b15a29a5-25df-41df-9ff5-6cf4e111c21e",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "11877db1-8be3-4eaf-8538-0356dca66b38",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "b080d4cb-ec35-4ef9-be05-7ee8325dd6ce",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "f0b94ef9-531e-4fb7-9693-ce6d3000108d",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "8efeb84a-f695-4cd2-b73c-25d817422d32",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "b080d4cb-ec35-4ef9-be05-7ee8325dd6ce",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0d6db745-d14f-4f01-9dd9-dce596de9586",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "55bb0338-7d64-4d9e-b87c-7105441dd2a8",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ec7b9c2c-969f-4608-a629-58aee2de36fb",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "1a7c797e-1a02-4f29-b81f-29fb5e337a90",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ccafc371-03b0-4ff5-ab7f-89ff6d028b74",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "361b9174-3ad3-4c2c-9928-c594df196cf9",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "1e6fa8ee-bc31-4aea-880d-9447d3352e46",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "f0b94ef9-531e-4fb7-9693-ce6d3000108d",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "8efeb84a-f695-4cd2-b73c-25d817422d32",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "11877db1-8be3-4eaf-8538-0356dca66b38",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "b080d4cb-ec35-4ef9-be05-7ee8325dd6ce",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "29c649f5-1828-4b8e-be1d-a653c1b28837",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "9fa33cce-1b9f-448f-9bf6-a5dc6dd245f2",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "41a01130-7a22-429c-b87d-bf9aa5fcd673",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "3d60913f-725d-4016-b2a8-6036ec25bd96",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0fb6e434-9191-45a8-b14f-b7584f29e4e1",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0a368c12-d5c0-4725-949b-54e579a8e1e9",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "3555c7ff-29f9-4a6f-8bff-b00dd1131ed9",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "84225cf1-6394-4e52-a006-df8ea7e57b34",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "230dd543-059b-4539-bd46-878dbd619abc",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "10c03ca1-0e36-4eaa-a54f-e64baed53b21",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "552713dc-da5c-4ee1-bfa7-250e1181c13d",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "b4eddef2-dd52-4b4e-a8ba-525effab8a98",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "65d08be4-ee61-4466-8177-66d91a571e13",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0d6db745-d14f-4f01-9dd9-dce596de9586",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "7da244f5-76f3-4454-a1d4-4f8310a749a8",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ca49ddeb-9fd7-4da4-a115-73ebc11e5e5d",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "0a95e843-91d2-489b-9595-92273cbb140b",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "55bb0338-7d64-4d9e-b87c-7105441dd2a8",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "ec7b9c2c-969f-4608-a629-58aee2de36fb",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "41ec63f8-f0c3-4e39-88e2-b8fe268e4294",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "c952149f-b591-4b23-8ff7-4e8091d6ea75",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "1a031557-9f79-49d9-b749-167da7a02799",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "1a031557-9f79-49d9-b749-167da7a02799",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
+{
+  "Match": "e911979a-9bab-4407-b6c6-6282078c0f1b",
+  "Url": "index-b867fbd6.js",
+  "Regex": "[0-9a-f]{8}-[0-9a-f]{4}-[0-5][0-9a-f]{3}-[089ab][0-9a-f]{3}-[0-9a-f]{12}",
+  "Category": "empty",
+  "ContentLength": 975.68
+}
